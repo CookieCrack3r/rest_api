@@ -25,7 +25,10 @@ SECRET_KEY = 'django-insecure-7+fh3$3^ovmv0fno_x^puoexs+ss1!j%$qjr#y36$r^wjckx9^
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['cookiecrack3r.pythonanywhere.com']
+ALLOWED_HOSTS = [
+    'localhost',
+    'cookiecrack3r.pythonanywhere.com'
+    ]
 
 
 # Application definition
