@@ -27,9 +27,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'localhost',
-    '127.0.0.1'
-    'cookiecrack3r.pythonanywhere.com'
-    'cookiecrack3r.pythonanywhere.com/'
+    '127.0.0.1',
+    'cookiecrack3r.pythonanywhere.com',
     ]
 
 
