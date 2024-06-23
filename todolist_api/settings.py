@@ -29,7 +29,7 @@ ALLOWED_HOSTS = [
     'localhost',
     '127.0.0.1'
     'cookiecrack3r.pythonanywhere.com'
-    'https://cookiecrack3r.pythonanywhere.com/'
+    'cookiecrack3r.pythonanywhere.com/'
     ]
 
 
